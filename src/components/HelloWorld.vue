@@ -12,7 +12,7 @@
 
       <v-col class="mb-4">
         <h1 class="display-2 font-weight-bold mb-3">
-          Lorem ipsum deploy
+          Lorem ipsum deploy !!!!
         </h1>
       </v-col>
     </v-row>
